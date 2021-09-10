@@ -1,5 +1,7 @@
 # Daniel Sobrinho
 
+[Linkedin Badge](https://img.shields.io/badge/-Daniel%20Sobrinho-informational?style=flat-square&logo=linkedin&link=http://www.linkedin.com/in/danielsobrinho1911)
+
 ## Bem Vindo! :wave: :brazil:
 Olá, meu nome é Daniel. Sou estudante do curso de Bacharelado em Ciência da Computação no Instituto Federal de Ciência e Tecnologia do Ceará - Campus Tianguá.
 
